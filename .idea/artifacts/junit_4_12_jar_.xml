@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="junit-4_12_jar_">
+    <output-path>$PROJECT_DIR$/out/artifacts/junit_4_12_jar_</output-path>
+    <root id="root">
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
